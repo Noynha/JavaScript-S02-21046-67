@@ -1,6 +1,6 @@
 //Parent class
 class Media {
-    constructor(into) {
+    constructor(info) {
         this.publishDate = info.publishDate;
         this.name = info.name;
     }
